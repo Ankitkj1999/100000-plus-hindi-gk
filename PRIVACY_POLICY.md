@@ -1,4 +1,4 @@
-# Privacy Policy for 100000+ Hindi GK Questions
+# Privacy Policy for 100K Plus Gk Prashn In Hindi
 
 **Effective Date:** October 20, 2026  
 **Last Updated:** October 20, 2026  
@@ -7,7 +7,7 @@
 ---
 
 ### 1. Introduction
-Welcome to **100000+ Hindi GK Questions** ("we", "our", or "the App"). We are committed to protecting your privacy. This Privacy Policy explains our practices regarding user information and demonstrates our dedication to keeping your personal data completely secure.
+Welcome to **100K Plus Gk Prashn In Hindi** ("we", "our", or "the App"). We are committed to protecting your privacy. This Privacy Policy explains our practices regarding user information and demonstrates our dedication to keeping your personal data completely secure.
 
 ### 2. Zero Personal Data Collection
 Our application operates **100% offline**. 
@@ -45,4 +45,4 @@ We may update our Privacy Policy periodically. Since the App operates offline wi
 If you have any questions, suggestions, or concerns regarding this Privacy Policy or the App, please contact us:
 - **Email:** ankit.k.j1999@gmail.com
 - **Developer Name:** Ankit Kumar
-- **App Name:** 100000+ Hindi GK Questions
+- **App Name:** 100K Plus Gk Prashn In Hindi
